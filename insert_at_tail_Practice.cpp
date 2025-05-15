@@ -19,7 +19,7 @@ using namespace std;
             return ;
         }
         Node* tmp = head;
-        while(tmp->next != NULL)
+        while(tmp->next != NULL)// next pointer 
         {
             tmp = tmp->next;
         }
